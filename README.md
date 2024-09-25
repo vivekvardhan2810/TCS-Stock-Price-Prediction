@@ -1,4 +1,4 @@
-# TCS Stock Price Prediction using LSTM, K-Means Clustering, and Logistic Regression
+# TCS Stock Price Prediction Using LSTM, K-Means Clustering, and Logistic Regression
 
 ## Overview
 
